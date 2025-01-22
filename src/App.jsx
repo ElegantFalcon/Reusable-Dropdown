@@ -9,6 +9,7 @@ const items = [
   { value: '4', label: 'Disabled Option', disabled: true },
   { value: '5', label: 'Text Option' },
   { value: '6', label: 'Icon and Text Option', icon: '🔔' },
+  { value: '7', label: 'Icon and Text Option', icon: '🔔' },
 
 ];
 
